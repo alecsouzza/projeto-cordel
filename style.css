@@ -93,7 +93,7 @@ section.imagem > p {
 }
 
 section#joaninha{
-    background-image: url('imagens/background001.jpg');
+    background-image: url('imagens/image1.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -101,7 +101,7 @@ section#joaninha{
 }
 
 section#livro{
-    background-image: url('imagens/background002.jpg');
+    background-image: url('imagens/image2.jpg');
     background-position: right center;
     background-repeat: no-repeat;
     background-attachment: fixed;
